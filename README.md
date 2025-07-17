@@ -4,7 +4,7 @@ The first variation has a filled background initially and the second has no back
 This is an adaption project that is found on the official gsap forum where it has been written with css.
 
 🔗 **Live Demo on CodePen**:  
-[Live Demo on CodePen] (https://codepen.io/marioalbinodias/pen/GgppvbV)
+[Live Demo on CodePen](https://codepen.io/marioalbinodias/pen/GgppvbV)
 
 ## Technologies Used
 - HTML5
